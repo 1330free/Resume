@@ -1,0 +1,38 @@
+.imgne2{
+    /*margin-top: -2.5%;*/
+    width: 35%;
+    border-radius: 15px;
+    transition: 1s;
+    border: white solid 10px;
+}
+.imgne2:hover{
+    width: 40%;
+}
+.imgne3{
+    margin-top: 2%;
+    width: 35%;
+    border-radius: 15px;
+    transition: 1s;
+    border: white solid 10px;
+}
+.imgne3:hover{
+    width:40%;
+}
+
+#left2{
+    width: 49.9%;
+    float: left;
+    text-align: center;
+}
+#right2{
+    width: 49.9%;
+    float: right;
+    text-align: center;
+}
+.texttt{
+    font-size: 25px;
+    font-family: 新細明體;
+}
+#bg5{
+    background-color: lightsteelblue;
+}

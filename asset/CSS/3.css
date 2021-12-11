@@ -1,0 +1,49 @@
+#C {
+    width: 90%;
+    margin-left: 5%;
+    /*margin-top: -2.5%;*/
+}
+
+#left{
+    width: 49.9%;
+    height: auto;
+    float: left;
+    text-align: center;
+    border-right: 2px solid gray;
+}
+
+#right{
+    width: 49.9%;
+    height: auto;
+    float: right;
+    text-align: center;
+}
+
+.imgne{
+    width: 35%;
+   /* height:291px;*/
+    border-radius: 15px;
+    height: auto;
+    border: white solid 5px;
+    transition: 1s;
+}
+.imgne:hover{
+    width: 40%;
+    height: auto;
+}
+.textt{
+    width: 50%;
+    /*height:291px;*/ 
+    height: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    font-family:'新細明體'sans-serif;
+    color: aliceblue;
+   
+
+}
+#bg4{
+    background-color: gray;
+}

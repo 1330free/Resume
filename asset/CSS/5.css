@@ -1,0 +1,36 @@
+#changepic{
+
+width: 45%;
+height: auto;
+border-radius: 15px;
+margin:auto;
+/*margin-bottom: 2.5%;*/
+border: orange solid 10px;
+transition: 1s;
+}
+#changepic:hover{
+    width:50%;
+}
+#E{
+    width: 100%;
+    /*margin-left: 10%;*/
+    text-align: center;
+}
+#bg6{
+    background-color: gray;
+}
+#middlep{
+    /*margin-left: 50%;*/
+    font-size: 15px;
+    font-family: 新細明體;
+    width: 45%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    /*display: block;
+    align-items: center;*/
+    /*text-align: center;*/
+    
+}
